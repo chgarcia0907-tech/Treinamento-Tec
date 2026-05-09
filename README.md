@@ -28,3 +28,6 @@ utils/
 
 Carlos Garcia
 
+## Tecnologia 
+
+js ts e muito amor 
