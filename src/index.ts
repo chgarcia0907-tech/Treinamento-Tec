@@ -29,3 +29,5 @@ console.log({
 import "./utils/problema1";
 import "./utils/problema3";
 import "./utils/problema5";
+
+console.log("Aplicação iniciada");
