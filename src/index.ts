@@ -31,4 +31,3 @@ import "./utils/problema3";
 import "./utils/problema5";
 
 console.log("Aplicação iniciada");
-console.log("Projeto configurado com sucesso");
